@@ -1,0 +1,23 @@
+* {
+  margin: 10px 0 0 5px;
+  padding: 0;
+}
+
+form {
+  margin-top: 15px;
+}
+
+textarea {
+  border: blue 1px solid;
+  border-radius: 5px;
+}
+
+textarea:focus {
+  outline: none;
+}
+
+button {
+  display: block;
+  margin-top: 15px;
+  padding: 5px;
+}
